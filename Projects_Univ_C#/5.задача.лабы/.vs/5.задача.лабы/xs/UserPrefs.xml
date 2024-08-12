@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D5DBABD5-8E2E-47D0-A025-FA31EE982079}|Default">
+  <MonoDevelop.Ide.ItemProperties.5.задача.лабы PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="5.задача.лабы/Program.cs">
+    <Files>
+      <File FileName="5.задача.лабы/Program.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="5.задача.лабы" expanded="True">
+            <Node name="5.задача.лабы" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

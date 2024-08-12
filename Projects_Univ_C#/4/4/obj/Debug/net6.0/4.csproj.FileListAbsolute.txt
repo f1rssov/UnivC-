@@ -1,0 +1,15 @@
+/Users/f1rssov/Projects/4/4/bin/Debug/net6.0/4
+/Users/f1rssov/Projects/4/4/bin/Debug/net6.0/4.deps.json
+/Users/f1rssov/Projects/4/4/bin/Debug/net6.0/4.runtimeconfig.json
+/Users/f1rssov/Projects/4/4/bin/Debug/net6.0/4.dll
+/Users/f1rssov/Projects/4/4/bin/Debug/net6.0/4.pdb
+/Users/f1rssov/Projects/4/4/obj/Debug/net6.0/4.csproj.AssemblyReference.cache
+/Users/f1rssov/Projects/4/4/obj/Debug/net6.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/f1rssov/Projects/4/4/obj/Debug/net6.0/4.AssemblyInfoInputs.cache
+/Users/f1rssov/Projects/4/4/obj/Debug/net6.0/4.AssemblyInfo.cs
+/Users/f1rssov/Projects/4/4/obj/Debug/net6.0/4.csproj.CoreCompileInputs.cache
+/Users/f1rssov/Projects/4/4/obj/Debug/net6.0/4.dll
+/Users/f1rssov/Projects/4/4/obj/Debug/net6.0/refint/4.dll
+/Users/f1rssov/Projects/4/4/obj/Debug/net6.0/4.pdb
+/Users/f1rssov/Projects/4/4/obj/Debug/net6.0/4.genruntimeconfig.cache
+/Users/f1rssov/Projects/4/4/obj/Debug/net6.0/ref/4.dll

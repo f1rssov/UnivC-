@@ -1,0 +1,15 @@
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/bin/Debug/net6.0/6.задача.лабы
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/bin/Debug/net6.0/6.задача.лабы.deps.json
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/bin/Debug/net6.0/6.задача.лабы.runtimeconfig.json
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/bin/Debug/net6.0/6.задача.лабы.dll
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/bin/Debug/net6.0/6.задача.лабы.pdb
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/obj/Debug/net6.0/6.задача.лабы.csproj.AssemblyReference.cache
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/obj/Debug/net6.0/6.задача.лабы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/obj/Debug/net6.0/6.задача.лабы.AssemblyInfoInputs.cache
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/obj/Debug/net6.0/6.задача.лабы.AssemblyInfo.cs
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/obj/Debug/net6.0/6.задача.лабы.csproj.CoreCompileInputs.cache
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/obj/Debug/net6.0/6.задача.лабы.dll
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/obj/Debug/net6.0/refint/6.задача.лабы.dll
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/obj/Debug/net6.0/6.задача.лабы.pdb
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/obj/Debug/net6.0/6.задача.лабы.genruntimeconfig.cache
+/Users/f1rssov/Projects/6.задача.лабы/6.задача.лабы/obj/Debug/net6.0/ref/6.задача.лабы.dll

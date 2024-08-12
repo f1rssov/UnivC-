@@ -1,0 +1,15 @@
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/bin/Release/net6.0/4.задачи.лабы
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/bin/Release/net6.0/4.задачи.лабы.deps.json
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/bin/Release/net6.0/4.задачи.лабы.runtimeconfig.json
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/bin/Release/net6.0/4.задачи.лабы.dll
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/bin/Release/net6.0/4.задачи.лабы.pdb
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/obj/Release/net6.0/4.задачи.лабы.csproj.AssemblyReference.cache
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/obj/Release/net6.0/4.задачи.лабы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/obj/Release/net6.0/4.задачи.лабы.AssemblyInfoInputs.cache
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/obj/Release/net6.0/4.задачи.лабы.AssemblyInfo.cs
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/obj/Release/net6.0/4.задачи.лабы.csproj.CoreCompileInputs.cache
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/obj/Release/net6.0/4.задачи.лабы.dll
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/obj/Release/net6.0/refint/4.задачи.лабы.dll
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/obj/Release/net6.0/4.задачи.лабы.pdb
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/obj/Release/net6.0/4.задачи.лабы.genruntimeconfig.cache
+/Users/f1rssov/Projects/4.задачи.лабы/4.задачи.лабы/obj/Release/net6.0/ref/4.задачи.лабы.dll
